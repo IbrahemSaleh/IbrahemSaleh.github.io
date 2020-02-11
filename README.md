@@ -2,13 +2,13 @@
 
 
 Hi, My name is Ibrahem ALtuwayjiri, I am a student in Imam Mohammed bin Saud Islamic University 
-in the fourth level in College of Computer and Information Sciences
+in College of Computer and Information Sciences
 
 
 
 ### Skills
 
-web design and development.
+development and web design.
 
 
 ### Programming languages
