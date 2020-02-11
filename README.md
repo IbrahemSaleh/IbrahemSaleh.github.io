@@ -8,7 +8,7 @@ University, I got a course in web design and development.
 
 ### Skills
 
-I got a course in web design and development.
+web design and development.
 
 
 ### Programming languages
