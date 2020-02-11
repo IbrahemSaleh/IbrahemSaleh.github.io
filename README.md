@@ -1,9 +1,9 @@
 # Welcome To My Profile
 
 
-Hi, My name is Ibrahem ALtuwayjiri, I am a student in the fourth level
-in College of Computer and Information Sciences at Imam Mohammed bin Saud Islamic
-University
+Hi, My name is Ibrahem ALtuwayjiri, I am a student in Imam Mohammed bin Saud Islamic University 
+in the fourth level in College of Computer and Information Sciences
+
 
 
 ### Skills
